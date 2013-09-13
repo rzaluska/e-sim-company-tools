@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from Company import Company
 from CompanyType import CompanyType
 from Market import *

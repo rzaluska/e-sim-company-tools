@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 class CompanyType(object):
     IRON = 0
     GRAIN = 1
